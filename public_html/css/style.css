@@ -1,0 +1,52 @@
+body{
+    background-color: lightseagreen;  
+}
+
+nav a{
+    color: blueviolet;
+    
+}
+a{
+  color: red; 
+}
+
+#current-link{
+    text-decoration: none;
+}
+.uppercase{
+    text-transform: uppercase;
+    font-size: 35px;
+    
+}
+img{
+    width: 300px;
+    height: auto;
+    padding-right: 200px;
+    padding-left: 20px;
+    padding-top: 40px;
+   
+    
+        
+    }
+    
+     
+        
+}
+h1{
+    border-style: solid;
+    border-width: 4px;
+    border-color: pink;
+    padding: 20px;
+    padding-left: 400px;
+    padding-right: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-left: 100px;
+}
+h2{
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+
+  
